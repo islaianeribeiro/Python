@@ -1,2 +1,2 @@
 # Python
- Exercícios em python para praticar.
+ Meus exercícios em python que aprendi.
